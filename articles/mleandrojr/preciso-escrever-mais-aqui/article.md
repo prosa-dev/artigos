@@ -18,11 +18,11 @@ tags:
   - prosa
   - historia
 excerpt: |
-    Fala, galerinha!\n
+    Fala, galerinha!
 
-    Queria escrever algo falando sobre como preciso escrever mais por aqui, mas para isso\n
-    pensei em uma repaginada neste site. Com isso, este post acaba de deixar de ser\n
-    uma reflexão de como deixei isso aqui de lado, e passou a ser sobre como o sistema\n
+    Queria escrever algo falando sobre como preciso escrever mais por aqui, mas para isso
+    pensei em uma repaginada neste site. Com isso, este post acaba de deixar de ser
+    uma reflexão de como deixei isso aqui de lado, e passou a ser sobre como o sistema
     estava, seu estado atual e o que será dele daqui em diante.
 ---
 
@@ -101,7 +101,7 @@ A ideia inicial era simples, mas como tudo na vida, as coisas nem sempre saem co
 planejado.
 A primeira coisa que eu fiz foi criar uma nova aplicação React com o [Create React App](https://create-react-app.dev/).
 
-```bash
+```
 [mleandrojr@localhost ~]$ npx create-react-app@latest prosa-dev
 ```
 
