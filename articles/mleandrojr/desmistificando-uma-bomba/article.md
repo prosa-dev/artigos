@@ -12,7 +12,7 @@ tags:
   - shell
   - bash
 excerpt: |
-    Neste artigo contarei como ficou o sistema com o parser de markdown e por que acho o syntax highlighting importante neste site.
+    Entenda o que é uma fork bomb, como funciona e se você pode ser afetado por ela.
 ---
 
 Você certamente já deve ter visto em algum lugar isso aqui:
