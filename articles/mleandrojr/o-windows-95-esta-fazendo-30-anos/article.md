@@ -86,7 +86,7 @@ A instalação do Windows 95 já era bem bonita, trazia aquele papel de parede c
 
 E permitia escolher o tipo de instalação.
 
-![](images/w95-install-02.jpg "Instalação do Windows 95")
+![](images/w95-install-02.png "Instalação do Windows 95")
 
 E enquanto instalava o sistema, aproveitava para apresentar algumas novidades.
 
