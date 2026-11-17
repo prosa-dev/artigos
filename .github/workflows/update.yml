@@ -4,13 +4,10 @@ on:
   push:
     branches:
       - master
-  pull_request:
-    types:
-      - closed
 
 jobs:
   deploy:
-    if: github.event_name == 'pull_request' && github.event.pull_request.merged == true
+    if: ${{ !github.event.repository.fork }}
     runs-on: ubuntu-latest
 
     steps:
